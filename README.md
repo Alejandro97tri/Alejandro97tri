@@ -1,26 +1,47 @@
-<img src="https://github.com/abdoachhoubi/abdoachhoubi/raw/main/gifs/Hi.gif"  width='40'  align="left"/><h1  align="left">&nbsp;&nbsp;Hey there! I'm Alejandro Ferrer García</h2>
+### Hey there! I'm Alejandro 👋
 
-## 👨🏻‍💻 &nbsp;&nbsp;About Me
+![me](https://github.com/user-attachments/assets/1428ad7d-0444-42dd-848e-29f1a9040bce)
 
+<br/><br/>
+## 👨 &nbsp;&nbsp;About Me
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+  <div>
   
+  - 👨‍💻 Currently working at **SolucionaIT** as a **FrontEnd Developer**  
+  - 🌱 Expanding my skills in **BackEnd** while strengthening my **FrontEnd expertise**  
+  - 📱 Passionate about building **mobile applications**, which I also explore in my free time  
+  - 💡 Always curious to learn new technologies and create useful solutions  
+  - ✉️ Reach me at **alejandrof97g8@gmail.com**  
+  
+  </div>
+  <br/>
+  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300"/>
 
-👨‍💻 &nbsp;I am currently working at SolucionaIT as FrontEnd Developer.
+</div>
 
-💡 &nbsp;I like to explore new technologies and develop software solutions.
-
-🌱 &nbsp;I'm on track for learning more about Ionic & Mobile Applications.
-
-✍️ &nbsp;In my free time, I'm into game development as hobbies/side hustles.
-
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
-
-✉️ &nbsp;You can shoot me an email at alejandrof97g8@gmail.com! I'll try to respond as soon as I can.
-
+<br/><br/>
 ## 🛠 &nbsp;&nbsp;Tech Stack
-<img alt="Night Coding"  src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"  align="right"/>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;![Tailwind](https://img.shields.io/badge/tailwind-%23563D7C.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;![Spring](https://img.shields.io/badge/angular-%23563D7C.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp; <br><br><br><br><br><br><br>
 
+**FrontEnd:**
+
+&nbsp; &nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwind-%23563D7C.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Spring](https://img.shields.io/badge/angular-%23563D7C.svg?style=for-the-badge&logo=angular&logoColor=white)
+
+**BackEnd / APIs:**  
+
+&nbsp; &nbsp; ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+
+**Design & Docs:**  
+
+&nbsp; &nbsp; ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp; 
+<br><br><br>
 
 ## 🧰 &nbsp;&nbsp;Version Controll & Tools
 
@@ -32,10 +53,10 @@
 
 <p  align="center">
 <a  href="https://github.com/Alejandro97tri">
-<img  height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=Alejandro97tri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img  height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=alejandro97tri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 <a href="https://github.com/Alejandro97tri">
-<img  height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alejandro97tri&layout=compact&langs_count=8&theme=algolia"/>
+<img  height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alejandro97tri&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <br><br>
