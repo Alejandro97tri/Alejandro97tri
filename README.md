@@ -14,7 +14,7 @@
 
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
 
-✉️ &nbsp;You can shoot me an email at contacto@rubenmarti.es! I'll try to respond as soon as I can.
+✉️ &nbsp;You can shoot me an email at alejandrof97g8@gmail.com! I'll try to respond as soon as I can.
 
 ## 🛠 &nbsp;&nbsp;Tech Stack
 <img alt="Night Coding"  src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"  align="right"/>
@@ -42,4 +42,4 @@
 
 ## 🤝🏻 &nbsp;&nbsp;Connect with Me
 
-<a  href="https://www.linkedin.com/in/rubén-martí-lópez-357673214/"><img  src="https://img.shields.io/badge/-Rubén%20Martí%20López-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>&nbsp;<a  href="mailto:contacto@rubenmarti.es"><img  src="https://img.shields.io/badge/-Rubén Martí López-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a  href="https://www.linkedin.com/in/a-ferrer/"><img  src="https://img.shields.io/badge/-Alejandro%20Ferrer%20García-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>&nbsp;<a  href="mailto:alejandrof97g8@gmail.com"><img  src="https://img.shields.io/badge/-Alejandro Ferrer García-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
